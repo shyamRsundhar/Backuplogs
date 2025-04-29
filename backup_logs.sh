@@ -1,7 +1,7 @@
-#!/bin/bash
+#!/bin/bash 
 
 # Directory containing logs
-LOG_DIR="/var/log"
+LOG_DIR="/var/log"  #1
 
 # Backup destination
 BACKUP_DIR="/home/osboxes/backups"
